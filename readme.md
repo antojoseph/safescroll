@@ -1,6 +1,6 @@
 ####What is this?
 
-Let's you create sign/ verify and run a self test on arbitary messages
+Let's you ecdsa sign/ verify messages with their private/pub keys  and run a self test!
 
 ```go run . -op sign -priv private_key.pem -message hello```
 
